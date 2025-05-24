@@ -42,9 +42,7 @@ top() and pop() always from front of q1
 
 📌 Example:
 
-text
-Copy
-Edit
+
 MyStack myStack = new MyStack();
 myStack.push(1);
 myStack.push(2);
